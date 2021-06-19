@@ -1,0 +1,8 @@
+c:\Users\Simon Palmer\Documents\Programming\near-enough\target\rls\debug\deps\lazy_static_include-defb5c6b780112c9.rmeta: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_array.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_bytes.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_str.rs
+
+c:\Users\Simon Palmer\Documents\Programming\near-enough\target\rls\debug\deps\lazy_static_include-defb5c6b780112c9.d: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_array.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_bytes.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_str.rs
+
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\lib.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_array.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_bytes.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\lazy-static-include-3.1.1\src\macro_include_str.rs:

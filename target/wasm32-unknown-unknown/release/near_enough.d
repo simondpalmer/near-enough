@@ -1,0 +1,1 @@
+C:\Users\Simon\ Palmer\Documents\Programming\near_enough\target\wasm32-unknown-unknown\release\near_enough.wasm: C:\Users\Simon\ Palmer\Documents\Programming\near_enough\src\lib.rs ./Cargo.toml ./build.rs ./src/imp_static_array.rs ./src/lib.rs

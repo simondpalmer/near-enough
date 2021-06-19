@@ -1,0 +1,11 @@
+c:\Users\Simon Palmer\Documents\Programming\near_enough\target\rls\debug\deps\region-0365e893760782d0.rmeta: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\error.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\lock.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\os\mod.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\os\windows.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\page.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\protect.rs
+
+c:\Users\Simon Palmer\Documents\Programming\near_enough\target\rls\debug\deps\region-0365e893760782d0.d: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\error.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\lock.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\os\mod.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\os\windows.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\page.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\protect.rs
+
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\lib.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\error.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\lock.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\os\mod.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\os\windows.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\page.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\region-2.2.0\src\protect.rs:

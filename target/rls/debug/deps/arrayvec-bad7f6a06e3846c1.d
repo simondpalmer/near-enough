@@ -1,0 +1,10 @@
+c:\Users\Simon Palmer\Documents\Programming\near_enough\target\rls\debug\deps\arrayvec-bad7f6a06e3846c1.rmeta: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array_string.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\char.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\errors.rs
+
+c:\Users\Simon Palmer\Documents\Programming\near_enough\target\rls\debug\deps\arrayvec-bad7f6a06e3846c1.d: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array_string.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\char.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\lib.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\maybe_uninit.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array_string.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\char.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\errors.rs:

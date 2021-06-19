@@ -1,0 +1,11 @@
+c:\Users\Simon Palmer\Documents\Programming\near-enough\target\rls\debug\deps\arrayvec-76e4cd9ecea146aa.rmeta: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\arrayvec_impl.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\arrayvec.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\array_string.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\char.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\errors.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\utils.rs
+
+c:\Users\Simon Palmer\Documents\Programming\near-enough\target\rls\debug\deps\arrayvec-76e4cd9ecea146aa.d: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\arrayvec_impl.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\arrayvec.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\array_string.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\char.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\errors.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\utils.rs
+
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\lib.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\arrayvec_impl.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\arrayvec.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\array_string.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\char.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\errors.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.7.1\src\utils.rs:

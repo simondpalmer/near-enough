@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\Simon Palmer\Documents\Programming\near_enough\target\rls\debug\build\typenum-515946039d856ef9\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\Simon Palmer\Documents\Programming\near_enough\target\rls\debug\build\typenum-515946039d856ef9\out\op.rs

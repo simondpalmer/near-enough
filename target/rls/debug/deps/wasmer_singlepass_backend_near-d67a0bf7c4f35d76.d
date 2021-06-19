@@ -1,0 +1,8 @@
+c:\Users\Simon Palmer\Documents\Programming\near-enough\target\rls\debug\deps\wasmer_singlepass_backend_near-d67a0bf7c4f35d76.rmeta: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\codegen_x64.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\emitter_x64.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\machine.rs
+
+c:\Users\Simon Palmer\Documents\Programming\near-enough\target\rls\debug\deps\wasmer_singlepass_backend_near-d67a0bf7c4f35d76.d: C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\lib.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\codegen_x64.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\emitter_x64.rs C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\machine.rs
+
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\lib.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\codegen_x64.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\emitter_x64.rs:
+C:\Users\Simon\ Palmer\.cargo\registry\src\github.com-1ecc6299db9ec823\wasmer-singlepass-backend-near-0.17.1\src\machine.rs:
